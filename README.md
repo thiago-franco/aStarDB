@@ -14,7 +14,8 @@ Tecla 'p' inicia/pausa o programa.
 
 Podem ser criadas novas configurações de mapas para serem utilizadas (diretamente em arquivo .txt). 
 
-Posição das esferas é aleatória por padrão. Pode ser facilmente alterada no código.
+Posição das esferas é aleatória por padrão. Pode ser facilmente alterada no código. Esferas detectadas aparecem em amarelo e esferas coletadas aparecem em cinza.
 
+## Captura de tela
 
-[captura de tela](https://github.com/thiago-franco/aStarDB/blob/master/astardb.png)
+![Captura de tela](https://github.com/thiago-franco/aStarDB/blob/master/astardb.png)
