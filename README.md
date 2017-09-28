@@ -12,6 +12,6 @@ Desenvolvido em [Python 3](https://www.python.org/) com o auxílio da biblioteca
 
 Tecla 'p' inicia/pausa o programa. 
 
-Podem ser criados novas configurações de mapas para serem utilizadas (diretamente em arquivo .txt). 
+Podem ser criadas novas configurações de mapas para serem utilizadas (diretamente em arquivo .txt). 
 
 Posição das esferas é aleatória por padrão. Pode ser facilmente alterada no código.
