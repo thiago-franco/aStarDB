@@ -15,3 +15,6 @@ Tecla 'p' inicia/pausa o programa.
 Podem ser criadas novas configurações de mapas para serem utilizadas (diretamente em arquivo .txt). 
 
 Posição das esferas é aleatória por padrão. Pode ser facilmente alterada no código.
+
+
+[captura de tela](https://github.com/thiago-franco/aStarDB/blob/master/astardb.png)
