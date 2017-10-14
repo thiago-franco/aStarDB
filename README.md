@@ -8,7 +8,7 @@ O mundo pode ser representado por uma matriz 42x42 e, além disso, Bulma criou u
 
 ### Detalhes 
 
-Desenvolvido em [Python 3](https://www.python.org/) com o auxílio da biblioteca [pygame](https://www.pygame.org). 
+Desenvolvido em [Python](https://www.python.org/) com o auxílio da biblioteca [pygame](https://www.pygame.org). 
 
 Tecla 'p' inicia/pausa o programa. 
 
